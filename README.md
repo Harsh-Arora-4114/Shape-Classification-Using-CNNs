@@ -41,13 +41,13 @@ The model is trained on custom or publicly available image datasets and accurate
 
 ## **Dataset**
 
-The dataset consists of images of **circles, triangles, and squares**, organized into subfolders:
+The dataset consists of images of **Circles, Triangles, and Squares**, organized into subfolders:
 
 ```
 shapes/
- ├── circle/
- ├── triangle/
- └── square/
+ ├── Circle/
+ ├── Triangle/
+ └── Square/
 ```
 
 Each image is labeled according to its folder.
