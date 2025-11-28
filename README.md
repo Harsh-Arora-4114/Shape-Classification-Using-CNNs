@@ -110,8 +110,6 @@ Images are preprocessed to **128×128 pixels** and normalized before training.
 
 * Educational sketch recognition tools
 * Real-time shape detection
-* UI automation
-* Robotics and vision systems
 
 ---
 
