@@ -1,4 +1,4 @@
-# **Shape-Classification-Using-CNN**
+# **A CNN-Based Shape Classifier with Music Playback**
 
 ## **Overview**
 
